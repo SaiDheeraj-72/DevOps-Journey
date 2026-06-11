@@ -6,7 +6,7 @@ This repository contains my complete DevOps and Cloud Engineering learning journ
 ## Modules
 
 * [x] Module 02 - Introduction to DevOps
-* [ ] Module 03 - Cloud Computing
+* [x] Module 03 - Cloud Computing
 * [ ] Module 04 - Linux Basics
 * [ ] Module 05 - Python and Bash
 * [ ] Module 06 - Flask and MongoDB
