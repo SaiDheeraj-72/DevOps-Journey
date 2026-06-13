@@ -35,5 +35,9 @@ x = Execute
 Examples:
 
 755 = rwxr-xr-x
+
+
 644 = rw-r--r--
+
+
 400 = r--------
