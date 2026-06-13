@@ -97,10 +97,6 @@ ssh user@server-ip
 \
 \
 \
-\
-
-
-
 
 
 
