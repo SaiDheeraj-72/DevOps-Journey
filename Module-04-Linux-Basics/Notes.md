@@ -24,8 +24,13 @@ Hardware
 ## File Permissions
 
 r = Read
+
+
 w = Write
+
+
 x = Execute
+
 
 Examples:
 
