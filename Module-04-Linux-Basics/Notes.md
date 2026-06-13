@@ -2,25 +2,33 @@
 
 ## What is Linux?
 
-Linux is an open-source operating system widely used in servers, cloud environments, and DevOps tools.
+Linux is an open-source operating system widely used in servers, cloud computing, and DevOps environments.
 
-## Why Linux is Important for DevOps
+## Why Linux for DevOps?
 
-* Most cloud servers run Linux
-* Docker is based on Linux concepts
-* Kubernetes workloads commonly run on Linux
-* DevOps engineers frequently manage Linux servers
+- AWS EC2 runs Linux
+- Docker uses Linux concepts
+- Kubernetes workloads run on Linux
+- Most production servers use Linux
 
-## Topics Learned
+## Linux Architecture
 
-* Linux file system basics
-* Navigation commands
-* File management
-* Process management
-* Permissions
-* Package management
-* Networking basics
+User/Application
+↓
+Shell
+↓
+Kernel
+↓
+Hardware
 
-## My Learning
+## File Permissions
 
-Completed Linux Basics module and learned essential Linux commands used in DevOps environments.
+r = Read
+w = Write
+x = Execute
+
+Examples:
+
+755 = rwxr-xr-x
+644 = rw-r--r--
+400 = r--------
