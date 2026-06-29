@@ -13,7 +13,7 @@ else:
     print("Fail")
 
 
-#Output
+# Output
 Grade B
 
 
@@ -32,5 +32,5 @@ else:
     print("Not Eligible")
 
 
-#Output
+# Output
 Eligible to Vote
