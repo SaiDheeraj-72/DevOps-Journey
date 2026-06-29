@@ -13,12 +13,12 @@ else:
     print("Fail")
 
 
-Output
+#Output
 Grade B
 
 
 
-//nested-if
+#nested-if
   
   age = 22
 citizen = True
@@ -32,5 +32,5 @@ else:
     print("Not Eligible")
 
 
-Output
+#Output
 Eligible to Vote
