@@ -1,11 +1,16 @@
-# Python Data Structures Quick Guide
+# Python Core Data Structures
 
-## 1. Lists
-Lists are ordered, mutable (changeable) collections.
+A quick reference guide for Lists, Tuples, and Dictionaries in Python.
+
+---
+
+## 📋 Lists
+> **Properties:** Ordered | Mutable (Changeable) | Allows Duplicates
 
 ### Code
 ```python
 fruits = ["Apple", "Banana", "Orange"]
+
 print(fruits)
 print(fruits[1])
 ```
@@ -18,12 +23,13 @@ Banana
 
 ---
 
-## 2. Tuples
-Tuples are ordered but immutable (unchangeable) collections.
+## 🔒 Tuples
+> **Properties:** Ordered | Immutable (Unchangeable) | Allows Duplicates
 
 ### Code
 ```python
 numbers = (10, 20, 30)
+
 print(numbers)
 ```
 
@@ -34,8 +40,8 @@ print(numbers)
 
 ---
 
-## 3. Dictionaries
-Dictionaries store data as key-value pairs.
+## 📖 Dictionaries
+> **Properties:** Key-Value Pairs | Mutable | Unique Keys
 
 ### Code
 ```python
@@ -44,6 +50,7 @@ student = {
     "Age": 21,
     "Branch": "ECE"
 }
+
 print(student)
 print(student["Name"])
 ```
