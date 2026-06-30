@@ -1,0 +1,25 @@
+Objective
+
+To read data from a text file and display it on the screen.
+
+Explanation
+
+The program opens the existing student.txt file in read mode. It reads the complete contents using the read() function and displays them on the console.
+
+Python Code
+file = open("student.txt", "r")
+
+content = file.read()
+
+print("File Contents:\n")
+
+print(content)
+
+file.close()
+
+
+#Expected Output
+
+File Contents:
+
+Hello, Welcome to Python File Handling!
